@@ -1,0 +1,9 @@
+* http-body
+
+HTTP POST data parser.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/fukamachi/http-body.git |
+| commit  | 3e4bedd                                        |
+| systems | http-body                                      |
+|---------+------------------------------------------------|
