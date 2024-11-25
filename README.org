@@ -4,6 +4,6 @@ HTTP POST data parser.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/fukamachi/http-body.git |
-| commit  | 3e4bedd                                        |
+| commit  | 6c84ce8                                        |
 | systems | http-body                                      |
 |---------+------------------------------------------------|
